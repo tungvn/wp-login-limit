@@ -1,2 +1,5 @@
 # wp-login-limit
-Limit login attemps on Wordpress
+Plugin support Limit login attemps on Wordpress
+
+* Version 0.1
+* Free to use
